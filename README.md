@@ -55,7 +55,7 @@ This platform is designed exclusively for university students to find and rent r
 
 <img width="840" alt="Chat" src="https://github.com/user-attachments/assets/e2c8d91d-b01c-4d7b-849e-dc0c78978f0c">
 
-#ReadMe Template
+# ReadMe Template
 
 - Documentation can be found here: https://start.4geeksacademy.com/starters/react-flask
 - Here is a video on [how to use this template](https://www.loom.com/share/f37c6838b3f1496c95111e515e83dd9b)
